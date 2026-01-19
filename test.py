@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v2.0, Lakhs century")
+print("Wassup Buddy!! v3.0, Validation ongoing for SMTP configurtation")
