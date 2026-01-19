@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v100, century")
+print("Wassup Buddy!! v1001, thousand century")
